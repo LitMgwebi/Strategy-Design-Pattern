@@ -1,0 +1,15 @@
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\bin\Debug\net6.0\BaltimoreTicketOffice.exe
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\bin\Debug\net6.0\BaltimoreTicketOffice.deps.json
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\bin\Debug\net6.0\BaltimoreTicketOffice.runtimeconfig.json
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\bin\Debug\net6.0\BaltimoreTicketOffice.dll
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\bin\Debug\net6.0\BaltimoreTicketOffice.pdb
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.csproj.AssemblyReference.cache
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.AssemblyInfoInputs.cache
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.AssemblyInfo.cs
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.csproj.CoreCompileInputs.cache
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.dll
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\refint\BaltimoreTicketOffice.dll
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.pdb
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\BaltimoreTicketOffice.genruntimeconfig.cache
+C:\Users\lithi\OneDrive\Desktop\Github\Strategy-Design-Pattern\BaltimoreTicketOffice\obj\Debug\net6.0\ref\BaltimoreTicketOffice.dll
